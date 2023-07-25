@@ -1,0 +1,1 @@
+Am about to setup a web page for successfully completing the Odin Project goal for the current section called "Project: Recipes"
